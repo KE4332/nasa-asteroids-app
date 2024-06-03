@@ -1,0 +1,6 @@
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/KE4332/nasa-asteroids-app-frontend
+[submodule "backend"]
+	path = backend
+	url = git@github.com:KE4332/nasa-asteroids-app-backend.git
